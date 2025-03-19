@@ -23,6 +23,18 @@ O "Amigo Secreto" é uma aplicação que permite aos usuários adicionar nomes d
 - CSS3
 - JavaScript (Vanilla)
 
+## Demonstração
+
+### Vídeo Tutorial
+
+[![Vídeo tutorial do Amigo Secreto](https://img.youtube.com/vi/t2bHdHU_tzg/0.jpg)](https://youtu.be/t2bHdHU_tzg?si=Y99m1EhiUNVhqFqJ)
+
+*Clique na imagem acima para assistir ao vídeo tutorial completo*
+
+### GIF Demonstrativo
+
+![Demonstração do Amigo Secreto](link-para-seu-gif.gif)
+
 ## Como Usar
 
 ### Instalação
@@ -109,7 +121,7 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para d
 
 ## Autor
 
-[Seu Nome] - [seu.email@exemplo.com]
+[Jefferson Brito] - [jeffesonbrito.ads@gmail.com]
 
 ---
 
